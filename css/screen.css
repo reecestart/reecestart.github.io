@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color: #feffbe;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #5b5b5b;
 }
 
 a:hover {
@@ -43,7 +43,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #028090;
 }
 
 table {
@@ -93,7 +93,7 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: #05668d;
     text-decoration: none;
   }
 
@@ -118,7 +118,7 @@ ul.posts {
   .site .footer {
     font-size: 80%;
     color: #666;
-    border-top: 4px solid #eee;
+    border-top: 4px solid #05668d;
     margin-top: 2em;
     overflow: hidden;
   }

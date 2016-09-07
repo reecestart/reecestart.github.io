@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my Site!"
+title:  "Welcome to my site"
 date:   2016-09-07 12:35:03 +0100
 categories: reece update
 ---
