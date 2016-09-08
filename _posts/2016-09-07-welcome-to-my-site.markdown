@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Welcome to my site"
-date:   2016-09-07 12:35:03 +0100
-categories: reece update
+title: Welcome to my site
 ---
+
+{{ page.title }}
+================
+
+<p class="meta">7 Sep 2016 - London</p>
+
 Hi, my name is Reece Denne and welcome to my site.
 
 This site is hosted on [Github][Github] which is where I keep my public [AWS Python][AWS-Python] scripts, my [AWS PowerShell][AWS-PowerShell] scripts, my [Windows PowerShell][Windows-PowerShell] scripts, and any other projects I am working on.
